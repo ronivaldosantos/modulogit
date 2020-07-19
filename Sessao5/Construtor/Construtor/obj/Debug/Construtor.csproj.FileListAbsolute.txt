@@ -1,0 +1,6 @@
+C:\Users\roniv\Documents\CursoCCharp\Sessao5\Construtor\Construtor\bin\Debug\Construtor.exe.config
+C:\Users\roniv\Documents\CursoCCharp\Sessao5\Construtor\Construtor\bin\Debug\Construtor.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao5\Construtor\Construtor\bin\Debug\Construtor.pdb
+C:\Users\roniv\Documents\CursoCCharp\Sessao5\Construtor\Construtor\obj\Debug\Construtor.csprojAssemblyReference.cache
+C:\Users\roniv\Documents\CursoCCharp\Sessao5\Construtor\Construtor\obj\Debug\Construtor.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao5\Construtor\Construtor\obj\Debug\Construtor.pdb

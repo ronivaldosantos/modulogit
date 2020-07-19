@@ -1,0 +1,6 @@
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Sessao4\Sessao4\bin\Debug\Sessao4.exe.config
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Sessao4\Sessao4\bin\Debug\Sessao4.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Sessao4\Sessao4\bin\Debug\Sessao4.pdb
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Sessao4\Sessao4\obj\Debug\Sessao4.csprojAssemblyReference.cache
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Sessao4\Sessao4\obj\Debug\Sessao4.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Sessao4\Sessao4\obj\Debug\Sessao4.pdb

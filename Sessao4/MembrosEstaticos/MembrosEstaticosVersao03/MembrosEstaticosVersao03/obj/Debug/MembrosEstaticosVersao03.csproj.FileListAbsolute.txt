@@ -1,0 +1,5 @@
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\MembrosEstaticosVersao03\MembrosEstaticosVersao03\bin\Debug\MembrosEstaticosVersao03.exe.config
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\MembrosEstaticosVersao03\MembrosEstaticosVersao03\bin\Debug\MembrosEstaticosVersao03.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\MembrosEstaticosVersao03\MembrosEstaticosVersao03\bin\Debug\MembrosEstaticosVersao03.pdb
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\MembrosEstaticosVersao03\MembrosEstaticosVersao03\obj\Debug\MembrosEstaticosVersao03.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\MembrosEstaticosVersao03\MembrosEstaticosVersao03\obj\Debug\MembrosEstaticosVersao03.pdb

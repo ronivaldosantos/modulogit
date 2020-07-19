@@ -1,0 +1,5 @@
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Fixacao\ExercicioFixacao02\ExercicioFixacao02\bin\Debug\ExercicioFixacao02.exe.config
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Fixacao\ExercicioFixacao02\ExercicioFixacao02\bin\Debug\ExercicioFixacao02.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Fixacao\ExercicioFixacao02\ExercicioFixacao02\bin\Debug\ExercicioFixacao02.pdb
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Fixacao\ExercicioFixacao02\ExercicioFixacao02\obj\Debug\ExercicioFixacao02.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Fixacao\ExercicioFixacao02\ExercicioFixacao02\obj\Debug\ExercicioFixacao02.pdb

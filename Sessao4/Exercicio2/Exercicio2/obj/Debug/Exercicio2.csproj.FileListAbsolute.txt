@@ -1,0 +1,6 @@
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csprojAssemblyReference.cache
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb

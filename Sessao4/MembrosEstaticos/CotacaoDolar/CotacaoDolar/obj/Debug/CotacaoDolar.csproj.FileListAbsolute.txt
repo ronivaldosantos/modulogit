@@ -1,0 +1,6 @@
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe.config
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.pdb
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csprojAssemblyReference.cache
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.pdb

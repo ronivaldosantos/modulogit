@@ -1,0 +1,6 @@
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Fixacao\ExercicioFixacao01\ExercicioFixacao01\bin\Debug\ExercicioFixacao01.exe.config
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Fixacao\ExercicioFixacao01\ExercicioFixacao01\bin\Debug\ExercicioFixacao01.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Fixacao\ExercicioFixacao01\ExercicioFixacao01\bin\Debug\ExercicioFixacao01.pdb
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Fixacao\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\ExercicioFixacao01.csprojAssemblyReference.cache
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Fixacao\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\ExercicioFixacao01.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\Fixacao\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\ExercicioFixacao01.pdb

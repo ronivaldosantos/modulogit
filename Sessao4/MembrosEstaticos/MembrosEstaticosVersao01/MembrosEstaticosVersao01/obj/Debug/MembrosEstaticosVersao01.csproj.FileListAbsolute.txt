@@ -1,0 +1,6 @@
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\MembrosEstaticosVersao01\MembrosEstaticosVersao01\bin\Debug\MembrosEstaticosVersao01.exe.config
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\MembrosEstaticosVersao01\MembrosEstaticosVersao01\bin\Debug\MembrosEstaticosVersao01.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\MembrosEstaticosVersao01\MembrosEstaticosVersao01\bin\Debug\MembrosEstaticosVersao01.pdb
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\MembrosEstaticosVersao01\MembrosEstaticosVersao01\obj\Debug\MembrosEstaticosVersao01.csprojAssemblyReference.cache
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\MembrosEstaticosVersao01\MembrosEstaticosVersao01\obj\Debug\MembrosEstaticosVersao01.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao4\MembrosEstaticos\MembrosEstaticosVersao01\MembrosEstaticosVersao01\obj\Debug\MembrosEstaticosVersao01.pdb

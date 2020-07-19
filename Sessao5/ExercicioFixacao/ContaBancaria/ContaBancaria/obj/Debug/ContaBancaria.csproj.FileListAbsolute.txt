@@ -1,0 +1,6 @@
+C:\Users\roniv\Documents\CursoCCharp\Sessao5\ExercicioFixacao\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe.config
+C:\Users\roniv\Documents\CursoCCharp\Sessao5\ExercicioFixacao\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao5\ExercicioFixacao\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.pdb
+C:\Users\roniv\Documents\CursoCCharp\Sessao5\ExercicioFixacao\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csprojAssemblyReference.cache
+C:\Users\roniv\Documents\CursoCCharp\Sessao5\ExercicioFixacao\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.exe
+C:\Users\roniv\Documents\CursoCCharp\Sessao5\ExercicioFixacao\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.pdb
