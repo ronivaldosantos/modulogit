@@ -1,5 +1,4 @@
-Meu primeiro sistema no GIT.
-
+Meu primeiro sistema no GIT. (Utilizado para estudos de formação profissional)
 
 Este repositório contém estudos de C#.
 
