@@ -24,8 +24,6 @@ namespace ExemploVetor
             double avg = soma / n;
 
             Console.WriteLine("AVERAGE HEIGHT = " + avg.ToString("F2", CultureInfo.InvariantCulture));
-        }
-
-
+        }        
     }
 }
