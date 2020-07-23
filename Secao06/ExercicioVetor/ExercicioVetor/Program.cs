@@ -16,9 +16,9 @@ namespace ExercicioVetor
 
             Estudante[] vect = new Estudante[10];
 
-            for (int i = 0; i < n; i++)
+            for (int i = 1; i <= n; i++)
             {
-                Console.WriteLine("Aluguel #" + (i + 1) + ":");
+                Console.WriteLine($"Aluguel + #{i}:");
                 Console.Write("Nome: ");
                 string nome = Console.ReadLine();
                 Console.Write("E-mail: ");
