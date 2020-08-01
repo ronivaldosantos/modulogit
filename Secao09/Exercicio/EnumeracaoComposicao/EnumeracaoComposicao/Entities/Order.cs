@@ -51,8 +51,7 @@ namespace EnumeracaoComposicao.Entities
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
-
-            sb.Append("Order status: ");
+                        
             sb.AppendLine("Order status: " + Status);
             sb.Append("Client: " + Client);            
             sb.AppendLine("Order Items");

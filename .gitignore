@@ -363,3 +363,4 @@ FodyWeavers.xsd
 
 senhas.txt
 *.sql
+/q
